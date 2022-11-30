@@ -10,7 +10,7 @@ export default defineNuxtConfig({
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'satudata-web',
+    title: 'stisla-nuxt',
     htmlAttrs: {
       lang: 'en',
     },

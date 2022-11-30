@@ -96,7 +96,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "Super Admin",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -106,7 +106,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "User",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -116,7 +116,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "Admin 2",
-              email: "eselon@satudata.com"
+              email: "eselon@email.com"
             }
           },
           {
@@ -126,7 +126,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "Admin 2",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -136,7 +136,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "User",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -146,7 +146,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "User",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -156,7 +156,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "User",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -166,7 +166,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "User",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -176,7 +176,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "User",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -186,7 +186,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "User",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -196,7 +196,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "User",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -206,7 +206,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "User",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -216,7 +216,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "User",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -226,7 +226,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "User",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -236,7 +236,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "Super Admin",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -246,7 +246,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "Super Admin",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           },
           {
@@ -256,7 +256,7 @@
             creator: {
               uuid: "96c7ff79-2964-420b-b915-a69ac739414a",
               name: "Super Admin",
-              email: "superadmin@satudata.com"
+              email: "superadmin@email.com"
             }
           }
         ],

@@ -1,4 +1,4 @@
-# satudata-web
+# NuxtJS Bridge with Stisla Template
 
 ## Build Setup
 
